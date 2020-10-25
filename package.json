@@ -1,0 +1,34 @@
+{
+  "name": "gitbook-plugin-navigation",
+  "version": "0.1.0",
+  "description": "基于Gitbook实现的导航栏插件, 用于追加单独的导航",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo welcome to use gitbook-plugin-navigation created by mawenxue"
+  },
+  "engines": {
+    "gitbook": ">=2.4.3"
+  },
+  "gitbook": {
+    "properties": {
+      "navigatorList": {
+        "type": "array",
+        "title": "navigatorList",
+        "required": true
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mawenxue/gitbook-plugin-navigation.git"
+  },
+  "keywords": [
+    "gitbook-plugin-navigation",
+    "gitbook-plugin",
+    "navigation",
+    "header"
+  ],
+  "author": "mawenxue",
+  "license": "MIT",
+  "homepage": "https://mawenxue.github.io/gitbook-plugin-navigation/"
+}
