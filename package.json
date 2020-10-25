@@ -4,7 +4,7 @@
   "description": "基于Gitbook实现的导航栏插件, 用于追加单独的导航",
   "main": "index.js",
   "scripts": {
-    "test": "echo welcome to use gitbook-plugin-navigation created by mawenxue"
+    "test": "echo welcome to use gitbook-plugin-navigation created by MissYou-MA"
   },
   "engines": {
     "gitbook": ">=2.4.3"
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mawenxue/gitbook-plugin-navigation.git"
+    "url": "git+https://github.com/MissYou-MA/gitbook-plugin-navigation.git"
   },
   "keywords": [
     "gitbook-plugin-navigation",
@@ -28,7 +28,7 @@
     "navigation",
     "header"
   ],
-  "author": "mawenxue",
+  "author": "MissYou-MA",
   "license": "MIT",
-  "homepage": "https://mawenxue.github.io/gitbook-plugin-navigation/"
+  "homepage": "https://MissYou-MA.github.io/gitbook-plugin-navigation/"
 }
